@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Aaron and I'm a Junior at Brandeis University studying Computer Science and Economics.
+My name is Aaron and I'm a Senior at Brandeis University studying Computer Science and Economics.
 
-- I’m currently learning Ruby on Rails through the Capstone Software Engineering class at Brandeis.
-- I'm also working as a tech consultant for Tap Tapes.
-- Most of my experience revolves around backend work.
+- I have experience working in Java, Python and JavaScript
+- I have been a software engineering intern at Galatea Associates, TapTapes, SOLO.ai, and Vibo
+- I have mostly worked with Node, React, and Spring
 
 - Fun facts about me:
   - I run Track and Cross Country
